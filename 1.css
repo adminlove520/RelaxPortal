@@ -124,8 +124,3 @@ body::before {
     cursor: pointer;
     margin-right: 10px;
 }
-footer {
-    display: flex;
-    justify-content: center;
-    align-items: center; /* 垂直居中 */
-}
